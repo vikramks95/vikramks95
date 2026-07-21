@@ -6,7 +6,7 @@
   <a href="https://www.linkedin.com/in/vikram-kumarba27/">
     <img src="https://img.shields.io/badge/LinkedIn-Vikram%20Kumar-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn" />
   </a>
-  <a href="mailto:your-email@example.com">
+  <a href="mailto:vikramks091@gmail.com">
     <img src="https://img.shields.io/badge/Email-your--email%40example.com-red?style=for-the-badge&logo=gmail" alt="Email" />
   </a>
   <a href="https://x.com/your_twitter_handle">
