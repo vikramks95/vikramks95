@@ -27,7 +27,7 @@ I am a passionate **Full-Stack Web Developer** based in Greater Noida, India. I 
 - 🔭 I’m currently working on improving **[byte-bazar](https://github.com/vikramks95/byte-bazar)** and **[LMS-System](https://github.com/vikramks95/LMS-System)**
 - 🌱 I’m currently learning **Advanced React & Next.js Architecture**
 - 💬 Ask me about **JavaScript, Full Stack Web Development, and Game Logic**
-- 📫 How to reach me: [your-email@example.com](mailto:your-email@example.com)
+- 📫 How to reach me: [your-vikramks091@gmail.com](mailto:vikramks091@gmail.com)
 - ⚡ Fun fact: I gamify productivity, which inspired me to build **[To-do-game](https://github.com/vikramks95/To-do-game)**!
 
 ---
