@@ -20,19 +20,19 @@
 
 ---
 
-### 💫 About Me
+###  About Me
 
 I am a passionate **Full-Stack Web Developer** based in Greater Noida, India. I specialize in building responsive, efficient, and user-centric web applications. I love creating interactive tools, systems, and games that bring productivity and entertainment together.
 
-- 🔭 I’m currently working on improving **[byte-bazar](https://github.com/vikramks95/byte-bazar)** and **[LMS-System](https://github.com/vikramks95/LMS-System)**
-- 🌱 I’m currently learning **Advanced React & Next.js Architecture**
-- 💬 Ask me about **JavaScript, Full Stack Web Development, and Game Logic**
-- 📫 How to reach me: [vikramks091@gmail.com](mailto:vikramks091@gmail.com)
-- ⚡ Fun fact: I gamify productivity, which inspired me to build **[To-do-game](https://github.com/vikramks95/To-do-game)**!
+-  I am currently working on improving **[byte-bazar](https://github.com/vikramks95/byte-bazar)** 
+-  I am currently learning **Advanced React & Next.js Architecture**
+-  Ask me about **Full (MERN) Stack Web Development, and DSA**
+-  How to reach me: [vikramks091@gmail.com](mailto:vikramks091@gmail.com)
+-  Fun fact: I gamify productivity, which inspired me to build **[To-do-game](https://github.com/vikramks95/To-do-game)**!
 
 ---
 
-### 🛠️ Tech Stack & Skills
+###  Tech Stack & Skills
 
 #### **Frontend**
 ![SkillIcons](https://skillicons.dev/icons?i=react,nextjs,typescript,tailwind,html,css,js,bootstrap)
@@ -45,7 +45,7 @@ I am a passionate **Full-Stack Web Developer** based in Greater Noida, India. I 
 
 ---
 
-### 📊 GitHub Activity & Streak
+###  GitHub Activity & Streak
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=vikramks95&theme=radical&border_radius=10" alt="GitHub Streak" />
@@ -57,24 +57,20 @@ I am a passionate **Full-Stack Web Developer** based in Greater Noida, India. I 
 
 ---
 
-### 🚀 Featured Projects
+###  Featured Projects
 
 | Project | Description | Tech Stack | Links |
 | :--- | :--- | :--- | :--- |
-| **byte-bazar** | A modern web application for digital storefront interactions. | JavaScript, CSS, HTML | [Repo](https://github.com/vikramks95/byte-bazar) |
-| **LMS-System** | A comprehensive Learning Management System designed to handle courses, students, and tracking. | JavaScript, Node.js | [Repo](https://github.com/vikramks95/LMS-System) |
-| **TaskFlow** | A structured task and workload management platform for boosting project flow. | JavaScript | [Repo](https://github.com/vikramks95/TaskFlow) |
-| **LearnQuora** | A platform for community question-answering and content sharing. | JavaScript, Frontend Tech | [Repo](https://github.com/vikramks95/LearnQuora) |
-| **To-do-game** | A productivity tool that gamifies tasks to keep users motivated and on-track. | JavaScript, Game Logic | [Repo](https://github.com/vikramks95/To-do-game) |
-| **GithubAnalyzer** | A developer dashboard that visualizes repository data and analyzes statistics. | JavaScript | [Repo](https://github.com/vikramks95/GithubAnalyzer) |
+| **byte-bazar** | A modern web application for digital storefront interactions. | React.js, Node.js, MongoDB | [Repo](https://github.com/vikramks95/byte-bazar) |
+| **LearnQuora** | A platform for community question-answering and content sharing. | React.js, Node.js, MongoDB | [Repo](https://github.com/vikramks95/LearnQuora) 
 
 ---
 
-### 🌐 Connect with Me
+###  Connect with Me
 
-- 💼 **Portfolio:** [Check it out here!](https://github.com/vikramks95)
-- 🔗 **LinkedIn:** [Vikram Kumar](https://www.linkedin.com/in/vikram-kumarba27/)
-- 🐦 **Twitter/X:** [@your_twitter_handle](https://x.com/your_twitter_handle)
+-  **Portfolio:** [Check it out here!](https://profile-xfay.vercel.app/)
+-  **LinkedIn:** [Vikram Kumar](https://www.linkedin.com/in/vikram-kumarba27/)
+-  **Twitter/X:** [@your_twitter_handle](https://x.com/vikram_k95)
 
 ---
 
